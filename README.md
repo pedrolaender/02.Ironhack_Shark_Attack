@@ -30,6 +30,3 @@
   
 # Contact
   linkedin, github, medium, etc 
-  
-
- 
