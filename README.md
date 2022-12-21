@@ -42,7 +42,7 @@
 
   The data analysis validated all 4 hypothesis. 
   
-  One thing tha must be taken into account is that the dataset has mostly american data, wich makes it unbalanced regarding to where the attacks happend.
+  One thing tha must be taken into account is that the dataset has mostly american data, wich makes it unbalanced regarding to where the attacks happend. The higher the number the better is the diamond
 
 
 ## Contact
