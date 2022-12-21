@@ -1,22 +1,24 @@
+![image]("C:\Users\Pedro\OneDrive\Desktop\Ironhack\04. GitHub\02.Ironhack_Shark_Attack\images\shark attack.jpg")
+m
 # Shark Attack
 
   Project Completed
-# Project objective
+## Project objective
 
   This project focuses on training data cleaning skills along with getting familiar with various data manipulation methods and aproaches.
   Therefore, a hypothesis was assumed at the beginning of the project that would be confirmed or denied after the data analysis. After verifying the first hypothesis, another one, linked to the previous, would be assumed and cheked, and so on.
   
-# Methods
+## Methods
 
   - Filtering
   - Grouping
   - Functional Programming
-# Technologies 
+## Technologies 
 
   - Python
   - Pandas
   - Regex
-# Project Description
+## Project Description
 
   The dataset was extracted from the website Global Shark Attack File (https://www.sharkattackfile.net/). It contains occurrences of shark attacks around the world for many decades.
 
@@ -37,7 +39,7 @@
 
   6- Hypotesis that the majority number of attacks occur in summer.
   -822 entries
-# Conclusion
+## Conclusion
 
   The data analysis validated all 4 hypothesis.
 
@@ -49,5 +51,8 @@
   
   -353 out of 822 attacks occurred on summer (43%).
 
-# Contact
-  linkedin, github, medium, etc 
+## Contact
+
+  Pedro Laender
+  
+  Github - (https://github.com/pedrolaender)
