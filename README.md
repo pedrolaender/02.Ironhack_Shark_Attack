@@ -37,12 +37,8 @@
 
   6- Hypotesis that the majority number of attacks occur in summer.
   -822 entries
-
-  
-# Steps
-  Add here any insights you had during the project
-
 # Conclusion
+
   The data analysis validated all 4 hypothesis.
 
   -5096 out of 5733 attacks were on men (89%).
